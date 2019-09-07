@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="Home"
+    android:id="@+id/home"
+    ></item>
+    <item
+        android:title="Setting"
+        android:id="@+id/set"
+        ></item>
+    <item
+    android:title="Notification"
+    android:id="@+id/noti"
+    >
+        <menu>
+            <item
+                android:title="Ghar Wali Notification"></item>
+            <item
+                android:title="Baher Wali Notification"></item>
+        </menu>
+    </item>
+    <item android:title="Search"
+        android:icon="@drawable/ic_action_search"
+        android:id="@+id/search"
+        app:showAsAction="ifRoom"></item>
+    <item android:title="Exit"
+        android:icon="@drawable/ic_action_search"
+        android:id="@+id/exit"
+      ></item>
+</menu>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RECYCLE</string>
+    <string-array name="title">
+        <item>Mi Note 4</item>
+
+        <item>Mi Note 5</item>
+        <item>Mi Note 6</item>
+        <item>Mi Note 7</item>
+        <item>Mi Note 8</item>
+        <item>Mi Note 9</item>
+        <item>Mi Note 10</item>
+        <item>Mi Note 11</item>
+
+    </string-array>
+
+
+    <string-array name="des">
+        <item>This is a  gud Phone 1</item>
+        <item>This is a  gud Phone 2</item>
+        <item>This is a  gud Phone 3</item>
+        <item>This is a  gud Phone 4</item>
+        <item>This is a  gud Phone 5</item>
+        <item>This is a  gud Phone 6</item>
+        <item>This is a  gud Phone 7</item>
+        <item>This is a  gud Phone 8</item>
+    </string-array>
+</resources>

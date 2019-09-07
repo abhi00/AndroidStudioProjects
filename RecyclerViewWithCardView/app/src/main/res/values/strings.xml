@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerViewWithCardView</string>
+    <string-array name="title">
+        <item>Mi Note 4</item>
+        <item>Mi Note 5</item>
+        <item>Mi Note 6</item>
+        <item>Mi Note 7</item>
+        <item>Mi Note 8</item>
+        <item>Mi Note 9</item>
+        <item>Mi Note 10</item>
+        <item>Mi Note 11</item>
+
+    </string-array>
+</resources>
